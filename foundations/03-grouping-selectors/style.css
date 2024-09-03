@@ -1,0 +1,12 @@
+.blackBtn,
+.yellowBtn{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.blackBtn{
+    background-color: hsl(0, 0%, 10%);
+    color: rgb(214, 214, 214);
+}
+.yellowBtn{
+    background-color: #ffff27;
+}
